@@ -1,0 +1,27 @@
+.navbar-default .navbar-nav>li>span{
+    color:#ffffff;
+}
+
+@media (min-width: 768px)
+.navbar-nav>li>span{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.navbar-nav>li>span{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height:25px;
+}
+
+.nav>li>span{
+    height:45px;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+#alert_infos{
+    position:absolute;
+    right:0;
+}
